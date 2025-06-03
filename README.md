@@ -316,12 +316,13 @@ The Liberty files are present in the library path,
 
 ## Synthesis RTL Schematic:
 
-![Screenshot 2025-05-27 140153](https://github.com/user-attachments/assets/36558f85-4ab2-43dd-93f1-7f9dda3e863f)
-9)
+
+![WhatsApp Image 2025-06-03 at 09 05 21_572e2aaf](https://github.com/user-attachments/assets/5f367cd5-8b13-434e-a94e-912011a320c3)
 
 ## nclaunch simulation:
 
-![WhatsApp Image 2025-05-27 at 14 53 47_9f2d6da1](https://github.com/user-attachments/assets/09a45dc9-fb86-4abc-946e-1d31c2812df7)
+
+![WhatsApp Image 2025-06-03 at 09 05 20_dbe459b2](https://github.com/user-attachments/assets/75980e54-a05d-4957-a56f-8feef5a13705)
 
 ## Floorplanning simulation:
 
